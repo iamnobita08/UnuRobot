@@ -16,3 +16,5 @@ bot = Client(
     bot_token=BOT_TOKEN
 )
 games = {}
+player_game = {}
+sudoers = []
