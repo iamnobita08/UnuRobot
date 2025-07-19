@@ -1,3 +1,2 @@
-pyrogram==2.0.106
-tgcrypto
 hydrogram @ git+https://github.com/AmanoTeam/hydrogram.git
+tgcrypto
