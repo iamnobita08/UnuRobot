@@ -15,6 +15,10 @@ bot = Client(
     api_hash=API_HASH,
     bot_token=BOT_TOKEN
 )
+# config.py
+
 games = {}
 player_game = {}
-sudoers = []
+sudoers = [123456789]  # Apna Telegram ID yaha daalo
+
+timeout = 60  # default timeout in seconds (ya jitna code me chahiye)
