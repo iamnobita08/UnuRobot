@@ -15,3 +15,4 @@ bot = Client(
     api_hash=API_HASH,
     bot_token=BOT_TOKEN
 )
+games = {}
