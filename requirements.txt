@@ -1,3 +1,4 @@
 hydrogram @ git+https://github.com/AmanoTeam/hydrogram.git
 tgcrypto
 tortoise-orm
+pyrogram==2.0.106
